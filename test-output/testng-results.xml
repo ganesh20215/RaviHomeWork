@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-28T13:01:48 IST" name="Default Suite" finished-at="2022-06-28T13:02:17 IST" duration-ms="29048">
+    <groups>
+    </groups>
+    <test started-at="2022-06-28T13:01:48 IST" name="EveningBatchTechnoStudy" finished-at="2022-06-28T13:02:17 IST" duration-ms="29048">
+      <class name="com.digitalpartners.test.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.digitalpartners.test.LoginTest@6200f9cb]" started-at="2022-06-28T13:01:48 IST" name="setUp" finished-at="2022-06-28T13:02:03 IST" duration-ms="15011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyBookCalender()[pri:0, instance:com.digitalpartners.test.LoginTest@6200f9cb]" started-at="2022-06-28T13:02:03 IST" name="verifyBookCalender" finished-at="2022-06-28T13:02:17 IST" duration-ms="14006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBookCalender -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.digitalpartners.test.LoginTest@6200f9cb]" started-at="2022-06-28T13:02:17 IST" name="tearDown" finished-at="2022-06-28T13:02:17 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.digitalpartners.test.LoginTest -->
+    </test> <!-- EveningBatchTechnoStudy -->
+  </suite> <!-- Default Suite -->
+</testng-results>

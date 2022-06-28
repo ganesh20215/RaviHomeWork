@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="EveningBatchTechnoStudy(failed)">
+    <classes>
+      <class name="com.digitalpartners.test.LoginTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifyBookCalender"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.digitalpartners.test.LoginTest -->
+    </classes>
+  </test> <!-- EveningBatchTechnoStudy(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->
