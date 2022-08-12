@@ -38,6 +38,6 @@ public class LoginTest extends TestBase {
 
     @AfterMethod
     public void tearDown() {
-//        getDriver().quit();
+        getDriver().quit();
     }
 }
