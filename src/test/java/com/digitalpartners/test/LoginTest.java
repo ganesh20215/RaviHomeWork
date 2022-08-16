@@ -39,7 +39,7 @@ public class LoginTest extends TestBase {
     @AfterMethod
     public void tearDown() {
         getDriver().quit();
-		System.out.println("Hello")
+		System.out.println("Hello");
 		System.out.println("Good Morning")
     }
 }
