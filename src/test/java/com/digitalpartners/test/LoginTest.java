@@ -33,6 +33,7 @@ public class LoginTest extends TestBase {
         bookDirectAndSavePage.selectRoomAdultChild(2,2);
         bookDirectAndSavePage.searchHotels();
         System.out.println("Hello Evening Batch Student");
+        System.out.println("Hello");
         softAssert.assertAll();
     }
 
