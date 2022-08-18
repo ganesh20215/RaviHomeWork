@@ -32,6 +32,7 @@ public class LoginTest extends TestBase {
         bookDirectAndSavePage.selectCheckOutData("2");
         bookDirectAndSavePage.selectRoomAdultChild(2,2);
         bookDirectAndSavePage.searchHotels();
+        System.out.println("Hello Evening Batch Student");
         softAssert.assertAll();
     }
 
@@ -40,6 +41,6 @@ public class LoginTest extends TestBase {
     public void tearDown() {
         getDriver().quit();
 		System.out.println("Hello");
-		System.out.println("Good Morning");
+		System.out.println("Good Afternoon");
     }
 }
