@@ -34,6 +34,7 @@ public class LoginTest extends TestBase {
         bookDirectAndSavePage.searchHotels();
         System.out.println("Hello Evening Batch Student");
         System.out.println("Hello");
+	System.out.println("Evening Batch Student");
         softAssert.assertAll();
     }
 
