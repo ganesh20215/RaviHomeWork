@@ -35,6 +35,7 @@ public class LoginTest extends TestBase {
         System.out.println("Hello Evening Batch Student");
         System.out.println("Hello");
 	System.out.println("Evening Batch Student");
+	System.out.println("Evening Batch Student");
         softAssert.assertAll();
     }
 
