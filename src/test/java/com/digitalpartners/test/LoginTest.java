@@ -34,9 +34,7 @@ public class LoginTest extends TestBase {
         bookDirectAndSavePage.searchHotels();
         System.out.println("Hello Evening Batch Student");
         System.out.println("Hello");
-		System.out.println("Evening Batch Student");
-		System.out.println("Afternoon Batch Student");
-	    System.out.println("Afternoon Batch Student");
+		    System.out.println("Afternoon Batch Student");
 	    System.out.println("Hello Morning Batch Student");
 	    System.out.println("Hello Morning Batch Student");
 		System.out.println("Hello 7.30 Morning Batch Student");
