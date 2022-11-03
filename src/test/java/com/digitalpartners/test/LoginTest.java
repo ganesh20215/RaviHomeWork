@@ -32,12 +32,6 @@ public class LoginTest extends TestBase {
         bookDirectAndSavePage.selectCheckOutData("2");
         bookDirectAndSavePage.selectRoomAdultChild(2,2);
         bookDirectAndSavePage.searchHotels();
-        System.out.println("Hello Evening Batch Student");
-        System.out.println("Hello");
-		    System.out.println("Afternoon Batch Student");
-	    System.out.println("Hello Morning Batch Student");
-	    System.out.println("Hello Morning Batch Student");
-		System.out.println("Hello 7.30 Morning Batch Student");
         softAssert.assertAll();
     }
 
