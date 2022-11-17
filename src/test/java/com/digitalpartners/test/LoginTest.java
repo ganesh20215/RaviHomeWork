@@ -40,6 +40,6 @@ public class LoginTest extends TestBase {
     public void tearDown() {
         getDriver().quit();
 		System.out.println("Hello");
-		System.out.println("Good Afternoon");
+		System.out.println("Good Evening");
     }
 }
