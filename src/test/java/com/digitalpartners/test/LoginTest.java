@@ -41,5 +41,6 @@ public class LoginTest extends TestBase {
         getDriver().quit();
 		System.out.println("Hello");
 		System.out.println("Sweet");
+	        System.out.println("Test");
     }
 }
