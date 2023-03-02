@@ -42,5 +42,6 @@ public class LoginTest extends TestBase {
 		System.out.println("Hello");
 		System.out.println("Sweet");
 	        System.out.println("Test");
+	        System.out.println("Test2");
     }
 }
